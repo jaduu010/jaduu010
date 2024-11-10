@@ -1,5 +1,9 @@
 ## Hi there 👋
 ANAND SINGH 
+skillset:
+html 
+css
+javascript
 <!--
 **jaduu010/jaduu010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
