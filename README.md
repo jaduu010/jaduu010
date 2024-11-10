@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am not jaadu, i am jaathuuu
-
+ANAND SINGH 
 <!--
 **jaduu010/jaduu010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
